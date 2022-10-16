@@ -121,6 +121,10 @@
             "submodules": true,
             "url": "https://github.com/blakat360/nur-packages"
         },
+        "blm768": {
+            "github-contact": "blm768",
+            "url": "https://github.com/blm768/nur-packages"
+        },
         "c0deaddict": {
             "github-contact": "c0deaddict",
             "url": "https://github.com/c0deaddict/nur-packages"
